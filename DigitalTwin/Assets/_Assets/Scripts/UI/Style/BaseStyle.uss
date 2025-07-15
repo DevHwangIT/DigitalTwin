@@ -1,0 +1,4 @@
+.unity-text-field {
+    -unity-text-align: middle-center;
+    text-align: center;
+}
