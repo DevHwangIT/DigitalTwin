@@ -21,6 +21,7 @@
 - **Unity 버전**: 6000.0.13f1
 - **스크립트 언어**: C#
 - **타겟 플랫폼**: Windows Standalone
+- **해상도**: 1920x1080 (16:9)
 
 ---
 
@@ -37,3 +38,12 @@ Assets/
     ├── Settings/       # 프로젝트 설정, 입력/렌더링 등 커스텀 설정
     ├── Textures/       # 텍스처 이미지 및 노멀맵 등
     └── ThirdParty/     # 외부 라이브러리 및 플러그인
+```
+
+---
+
+## 5. 🎥 실행 모습
+
+![시연 장면](https://github.com/DevHwangIT/DigitalTwin/blob/main/Result.gif)
+
+---
